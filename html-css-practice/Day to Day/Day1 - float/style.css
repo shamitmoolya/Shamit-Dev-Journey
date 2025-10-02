@@ -1,0 +1,52 @@
+@font-face {
+    src: url(../Day1/fonts/Roboto/Roboto-Italic-VariableFont_wdth\,wght.ttf);
+    font-family: Roboto;
+}
+
+*{
+    margin: 0;
+}
+
+body{
+    background-color: hsl(180, 94%, 81%);
+}
+
+.article{
+    font-family: Roboto, sans-serif, 'Courier New', Courier, monospace;
+    margin: auto;
+    width: 80%;
+    overflow: hidden;
+    background-color: grey;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    box-shadow: -5px -5px 3px rgb(255, 255, 255), 5px 5px 3px black;
+}
+
+.top_subhead {
+    margin-bottom: 10px;    
+}
+
+.float-img{
+    float:left;
+    height: 300px;
+    margin: 0 20px 20px 0;
+    border-radius: 8px;
+    box-shadow: 5px 5px 11px rgb(237, 56, 20);;
+}
+
+p{
+    line-height: 1.23;
+}
+
+.footer{
+    clear: both;
+    font-weight: bold;
+    font-size: 1.3em;
+    text-align: center;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 0 0 8px 8px;
+}
+
