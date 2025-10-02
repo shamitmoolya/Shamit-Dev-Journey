@@ -11,4 +11,3 @@ Practicing HTML/CSS layouts, learning React basics, and experimenting with Pytho
 
 ## 🌐 Connect with Me
 - [LinkedIn] - www.linkedin.com/in/smoolya
-- [Twitter] - x.com/shamit_dev
