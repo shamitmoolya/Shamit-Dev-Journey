@@ -2,9 +2,11 @@
 Aspiring AI/ML Engineer & Full-Stack Developer | Documenting my learning journey
 
 ## 🚀 What I'm Exploring
-- MERN stack development
-- Python scripting & AIML fundamentals
-- Building a personal portfolio site
+- HTML & CSS practice
+- Small UI/UX cloning projects
+- Python basics
+- MERN learning (in progress)
+- AI/ML experiments (beginner level)
 
 ## 📚 Current Focus
 Practicing HTML/CSS layouts, learning React basics, and experimenting with Python notebooks.
